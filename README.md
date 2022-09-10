@@ -77,7 +77,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>The figure displays the training and validation loss and accuracy of the model over epochs. It indicates a smooth training process during which the loss gradually decreases and the accuracy increases. Moreover, it can be observed that the accuracy of both training and validation do not deviate much from one another in most cases, a phenomenon that can also be observed for the training and validation loss, indicating that the model is not overfitting.</p>
+<p>The figure displays the training and validation loss and accuracy of the model over epochs. It indicates a smooth training process during which the loss gradually decreases and the accuracy increases. Moreover, it can be observed that the accuracy of both training and validation do not deviate much from one another in most cases, a phenomenon that can also be observed for the training and validation loss, indicating that the model is not overfitting. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":84,"sizeSlug":"full","linkDestination":"none"} -->
